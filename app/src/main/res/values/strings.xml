@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="dont_click_me">Don\'t click me</string>
+    <string name="biqqer_than_uranus">Biqqer than uranus</string>
+    <string name= "helloWorld">Hello World!</string>
+    <string name="reset_lol">Reset</string>
+</resources>
